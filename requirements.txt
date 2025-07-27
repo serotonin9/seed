@@ -1,9 +1,8 @@
 numpy==1.23.5
-solders==0.19.1
-solana==0.29.0
+solders==0.18.0
+solana==0.28.0  # Downgraded to match solders 0.18.0
 mnemonic==0.20
 requests==2.28.2
 tqdm==4.65.0
 python-dotenv==1.0.0
 base58==2.1.1
-typing-extensions==4.5.0  # Explicitly added for compatibility
