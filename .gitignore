@@ -1,0 +1,5 @@
+found_wallets.json
+__pycache__/
+*.env
+*.pyc
+.DS_Store
